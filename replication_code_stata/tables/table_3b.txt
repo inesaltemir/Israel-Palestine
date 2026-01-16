@@ -1,0 +1,20 @@
+		(1)	(2)	(3)	(4)	(5)	(6)	(7)
+VARIABLES	LABELS	Occurrence	Occurrence	Occurrence	Ln(victims)	Ln(victims)	Ln(victims)	Num. victims
+								
+daily_woi_nc	News pressure uncorrected	0.027	-0.007	-0.003	0.021	-0.023	-0.037	-0.203
+		(0.034)	(0.034)	(0.036)	(0.065)	(0.054)	(0.049)	(0.155)
+leaddaily_woi_nc	News pressure uncorrected (t+1)		0.063*	0.063*		0.080*	0.076	0.341**
+			(0.034)	(0.035)		(0.048)	(0.049)	(0.164)
+lagdaily_woi_nc	News pressure uncorrected (t-1)			-0.030			-0.031	-0.145
+				(0.035)			(0.046)	(0.155)
+occurrence_pal_1	Occurrence of Palestinian attacks (previous day)			0.105***			0.221***	0.425***
+				(0.030)			(0.057)	(0.100)
+occurrence_pal_2_7	Occurrence of Palestinian attacks (previous week)			0.086***			0.168***	0.408***
+				(0.022)			(0.036)	(0.091)
+occurrence_pal_8_14	Occurrence of Palestinian attacks (week before previous)			0.099***			0.144***	0.308***
+				(0.022)			(0.036)	(0.087)
+								
+Observations		4,048	4,045	4,024	4,048	4,045	4,024	4,024
+R-squared		0.180			0.173			
+Robust standard errors in parentheses								
+*** p<0.01, ** p<0.05, * p<0.1								

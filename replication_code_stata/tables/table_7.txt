@@ -1,0 +1,28 @@
+		(1)	(2)	(3)	(4)
+VARIABLES	LABELS	Isr-Pal Conflict	Isr-Pal Conflict	Isr-Pal Conflict	Isr-Pal Conflict
+					
+conflict_news_isr_occ_t	Any conflict news x Israeli attack, same day	0.014	-0.058		
+		(0.114)	(0.127)		
+conflict_news_isr_occ_t_1	Any conflict news x Israeli attack, previous day	0.368***	0.295**		
+		(0.101)	(0.127)		
+Lconflict_news_isr_occ_t	Lconflict_news_isr_occ_t		0.047		
+			(0.143)		
+Lconflict_news_isr_occ_t_1	Lconflict_news_isr_occ_t_1		0.329***		
+			(0.119)		
+l_conflict_news_isr_occ_t	Lenght of conflict news x Israeli attack, same day			-0.003	-0.044
+				(0.034)	(0.040)
+l_conflict_news_isr_occ_t_1	Lenght of  conflict news x Israeli attack, previous day			0.109***	0.108***
+				(0.030)	(0.039)
+Ll_conflict_news_isr_occ_t	Ll_conflict_news_isr_occ_t				-0.034
+					(0.044)
+Ll_conflict_news_isr_occ_t_1	Ll_conflict_news_isr_occ_t_1				0.114***
+					(0.039)
+					
+Observations		2,773	2,741	2,773	2,741
+DOW FEs		Yes	Yes	Yes	Yes
+Linear time trend		Yes	Yes	Yes	Yes
+p value		0.0531	0.133	0.0726	0.0520
+p value lag			0.249		0
+p value sum			0.170		0.0526
+Standard errors in parentheses					
+*** p<0.01, ** p<0.05, * p<0.1					

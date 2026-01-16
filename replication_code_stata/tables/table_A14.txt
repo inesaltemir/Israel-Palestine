@@ -1,0 +1,14 @@
+		(1)	(2)	(3)
+		NP t+1	Occurrence	Num. victims
+VARIABLES	LABELS	1st stage	IV 2nd stage	IV 2nd stage
+				
+lead_maj_events	Occurrence of major US political events or FIFA World Cup (t+1)	0.126***		
+		(0.038)		
+leaddaily_woi_long	News pressure based on longest three stories (t+1)		0.867**	3.512**
+			(0.384)	(1.392)
+				
+Observations		4,046	4,046	4,046
+R-squared		0.094	0.083	
+F excl. instr.			10.75	10.75
+Robust standard errors in parentheses				
+*** p<0.01, ** p<0.05, * p<0.1				

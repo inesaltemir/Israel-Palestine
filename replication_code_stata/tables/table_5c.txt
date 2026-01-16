@@ -1,0 +1,16 @@
+		(1)	(2)	(3)	(4)	(5)	(6)	(7)	(8)
+		NP-Tomorrow	UncorNP-Tomorrow	Occurrence	Occurrence	Occurrence	Num. victims	Num. victims	Num. victims
+VARIABLES	LABELS	1st stage	1st stage	IV 2nd stage	IV 2nd stage	Reduced form	IV 2nd stage	IV 2nd stage	Reduced form
+									
+lead_disaster	Onset of major disaster (t+1)	0.082***	0.078***			-0.023			-0.131
+		(0.025)	(0.026)			(0.045)			(0.162)
+leaddaily_woi	News pressure (t+1)			-0.278			-1.081		
+				(0.571)			(2.047)		
+leaddaily_woi_nc	News pressure uncorrected (t+1)				-0.291			-1.132	
+					(0.593)			(2.149)	
+									
+Observations		4,046	4,046	4,046	4,046	4,049	4,046	4,046	4,049
+R-squared		0.104	0.119	0.161	0.163	0.193			
+F excl. insrt		10.71	9.112	10.71	9.112		10.71	9.112	
+Robust standard errors in parentheses									
+*** p<0.01, ** p<0.05, * p<0.1									

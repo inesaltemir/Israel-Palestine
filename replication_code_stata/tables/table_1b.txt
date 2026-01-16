@@ -1,0 +1,14 @@
+		(1)	(2)	(3)
+		Length conflict news	NP	Uncorr NP
+VARIABLES	LABELS	1st stage	2SLS	2SLS
+				
+high_intensity	Periods of high intensity of conflict	5.291***		
+		(1.235)		
+length_conflict_news	Length of conflict-related news stories (in minutes)		0.00001	-0.018***
+			(0.006)	(0.005)
+				
+Observations		2,331	2,331	2,331
+R-squared		0.295	0.133	0.200
+F excl. instr.		18.35	18.35	18.35
+Robust standard errors in parentheses				
+*** p<0.01, ** p<0.05, * p<0.1				

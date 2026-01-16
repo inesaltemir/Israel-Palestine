@@ -1,0 +1,80 @@
+		(1)	(2)	(3)	(4)
+VARIABLES	LABELS	NP	NP	NP	NP
+					
+F.general_election	US general elections = F,		0.386***		
+			(0.092)		
+F2.general_election	US general elections = F,		0.262***		
+			(0.094)		
+general_election	US general elections	0.425***	0.439***		
+		(0.102)	(0.103)		
+L.general_election	US general elections = L,		0.369***		
+			(0.079)		
+L2.general_election	US general elections = L,		0.015		
+			(0.057)		
+L.nh_presidential_primary	New Hampshire presidential primaries = L,		0.250***		
+			(0.049)		
+nh_presidential_primary	New Hampshire presidential primaries	0.397***	0.392***		
+		(0.040)	(0.041)		
+F.nh_presidential_primary	New Hampshire presidential primaries = F,		0.310***		
+			(0.036)		
+L.super_tuesday	Super Tuesday = L,		0.287**		
+			(0.135)		
+super_tuesday	Super Tuesday	0.221	0.219		
+		(0.213)	(0.205)		
+F.super_tuesday	Super Tuesday = F,		0.134		
+			(0.232)		
+L.presidential_caucuses	State elections presidential caucuses = L,		0.017		
+			(0.070)		
+presidential_caucuses	State elections presidential caucuses		0.153***		
+			(0.044)		
+F.presidential_caucuses	State elections presidential caucuses = F,		-0.004		
+			(0.088)		
+F.presidential_inauguration	Presidential inauguration = F,		0.062		
+			(0.208)		
+presidential_inauguration	Presidential inauguration	0.639***	0.634***		
+		(0.198)	(0.201)		
+L.presidential_inauguration	Presidential inauguration = L,		-0.156***		
+			(0.047)		
+main_national_conventions	Main national conventions	0.293***			
+		(0.111)			
+iowa_caucuses	Iowa caucuses	0.186			
+		(0.120)			
+state_of_the_union	State of the Union address	0.170***			
+		(0.048)			
+other_presidential_caucuses	Other presidential caucuses	0.160***			
+		(0.043)			
+other_presidential_primaries	Other presidential primaries	-0.016			
+		(0.047)			
+statewide_elections	State elections	0.071			
+		(0.111)			
+congress_start_session	US congress start session	-0.018			
+		(0.116)			
+special_congressional_elections	Special congressional elections	0.013			
+		(0.039)			
+gubernatorial_elections	Gubernatorial elections	-0.043			
+		(0.038)			
+state_primary	State primaries	-0.004			
+		(0.025)			
+special_senate_elections	Special Senate elections	0.048			
+		(0.141)			
+worldcup	FIFA World Cup			0.103**	
+				(0.051)	
+olympics	Olympic games			-0.070	
+				(0.044)	
+worldseries	MLB World Series			0.024	
+				(0.064)	
+marchmadness	NCAA Finals			0.076	
+				(0.053)	
+nbafinals	NBA Finals			0.025	
+				(0.033)	
+eurocup	UEFA Euro Cup			0.006	
+				(0.048)	
+other_sport_events	Other important sport events			-0.006	
+				(0.036)	
+major_events	Occurrence of major US political events or FIFA World Cup				0.168***
+					(0.037)
+					
+Observations		4,071	4,067	4,071	4,071
+R-squared		0.116	0.121	0.105	0.112
+Robust standard errors in parentheses					
+*** p<0.01, ** p<0.05, * p<0.1					
