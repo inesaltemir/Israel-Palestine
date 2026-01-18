@@ -1,0 +1,136 @@
+start_date,disaster_group,disaster_type,total_deaths
+2000-01-31,Technological,Air,88.0
+2000-02-13,Natural,Storm,22.0
+2000-04-08,Technological,Air,19.0
+2000-05-21,Technological,Air,19.0
+2000-08-19,Technological,Explosion (Miscellaneous),10.0
+2000-12-16,Natural,Storm,12.0
+2000-12-24,Natural,Storm,57.0
+2001-01-03,Technological,Fire (Miscellaneous),11.0
+2001-02-22,Natural,Storm,11.0
+2001-03-03,Technological,Air,21.0
+2001-04-02,Technological,Water,15.0
+2001-06-05,Natural,Storm,41.0
+2001-09-23,Technological,Explosion (Industrial),13.0
+2001-11-12,Technological,Air,265.0
+2001-11-15,Natural,Flood,9.0
+2002-01-30,Natural,Storm,28.0
+2002-03-17,Natural,Flood,7.0
+2002-04-27,Natural,Storm,10.0
+2002-05-02,Natural,Flood,9.0
+2002-05-10,Technological,Water,28.0
+2002-06-30,Natural,Flood,10.0
+2002-07-09,Natural,Epidemic,214.0
+2002-09-12,Technological,Road,14.0
+2002-11-05,Natural,Storm,36.0
+2002-12-04,Natural,Storm,30.0
+2002-12-19,Natural,Storm,13.0
+2002-12-23,Natural,Storm,18.0
+2003-01-08,Technological,Air,21.0
+2003-02-14,Natural,Storm,44.0
+2003-02-17,Technological,Miscellaneous accident (General),21.0
+2003-02-20,Technological,Fire (Miscellaneous),100.0
+2003-02-26,Technological,Fire (Miscellaneous),11.0
+2003-02-26,Natural,Storm,14.0
+2003-04-04,Natural,Storm,13.0
+2003-05-04,Natural,Storm,45.0
+2003-06-28,Technological,Collapse (Miscellaneous),12.0
+2003-09-18,Natural,Storm,16.0
+2003-10-21,Natural,Wildfire,4.0
+2003-10-25,Natural,Wildfire,14.0
+2003-11-12,Natural,Flood,18.0
+2003-12-06,Natural,Storm,13.0
+2003-12-22,Natural,Earthquake,2.0
+2003-12-25,Natural,Mass movement (wet),15.0
+2004-01-15,Natural,Storm,56.0
+2004-02-28,Technological,Explosion (Industrial),21.0
+2004-05-29,Natural,Storm,10.0
+2004-08-13,Natural,Storm,10.0
+2004-09-05,Natural,Storm,47.0
+2004-09-15,Natural,Storm,52.0
+2005-01-07,Natural,Flood,28.0
+2005-01-07,Technological,Rail,9.0
+2005-01-22,Natural,Storm,20.0
+2005-01-26,Technological,Rail,11.0
+2005-02-17,Natural,Flood,9.0
+2005-03-23,Technological,Explosion (Industrial),15.0
+2005-07-04,Natural,Extreme temperature,33.0
+2005-08-29,Natural,Storm,1833.0
+2005-09-23,Natural,Storm,10.0
+2005-09-23,Technological,Road,24.0
+2005-10-02,Technological,Water,21.0
+2005-10-08,Natural,Flood,11.0
+2005-12-08,Natural,Storm,10.0
+2005-12-19,Technological,Air,19.0
+2005-12-27,Natural,Wildfire,5.0
+2006-01-02,Technological,Explosion (Industrial),13.0
+2006-03-11,Natural,Storm,10.0
+2006-03-14,Natural,Flood,7.0
+2006-04-02,Natural,Storm,28.0
+2006-04-06,Natural,Storm,12.0
+2006-06-25,Natural,Flood,11.0
+2006-07-14,Natural,Extreme temperature,164.0
+2006-08-27,Technological,Air,49.0
+2006-09-22,Natural,Flood,14.0
+2006-10-26,Natural,Wildfire,4.0
+2006-11-15,Natural,Storm,12.0
+2006-11-26,Technological,Fire (Miscellaneous),10.0
+2006-11-30,Natural,Storm,11.0
+2006-12-14,Natural,Storm,10.0
+2007-01-12,Natural,Storm,65.0
+2007-01-15,Natural,Flood,24.0
+2007-02-02,Natural,Storm,20.0
+2007-02-14,Natural,Storm,16.0
+2007-03-01,Natural,Storm,20.0
+2007-03-07,Technological,Fire (Miscellaneous),10.0
+2007-04-13,Natural,Storm,23.0
+2007-04-24,Natural,Storm,10.0
+2007-05-04,Natural,Storm,12.0
+2007-05-24,Natural,Flood,8.0
+2007-06-17,Natural,Flood,10.0
+2007-06-26,Natural,Flood,8.0
+2007-08-02,Technological,Collapse (Miscellaneous),13.0
+2007-08-16,Natural,Storm,26.0
+2007-08-16,Natural,Flood,26.0
+2007-10-21,Natural,Wildfire,8.0
+2007-12-03,Natural,Storm,17.0
+2007-12-09,Natural,Storm,24.0
+2007-12-23,Natural,Storm,22.0
+2008-01-04,Natural,Storm,12.0
+2008-02-05,Natural,Storm,59.0
+2008-02-07,Technological,Explosion (Industrial),13.0
+2008-03-17,Natural,Flood,18.0
+2008-04-03,Technological,Fire (Miscellaneous),10.0
+2008-05-10,Natural,Storm,22.0
+2008-06-09,Natural,Flood,24.0
+2008-08-20,Natural,Storm,12.0
+2008-09-01,Natural,Storm,43.0
+2008-09-12,Natural,Storm,82.0
+2008-09-13,Technological,Rail,25.0
+2009-01-26,Natural,Extreme temperature,58.0
+2009-02-10,Natural,Storm,16.0
+2009-02-12,Technological,Air,50.0
+2009-09-20,Natural,Flood,9.0
+2009-12-23,Natural,Storm,19.0
+2010-03-13,Natural,Storm,11.0
+2010-04-05,Technological,Explosion (Industrial),27.0
+2010-04-24,Natural,Storm,12.0
+2010-04-30,Natural,Storm,30.0
+2010-05-10,Natural,Storm,20.0
+2010-06-07,Technological,Explosion (Industrial),13.0
+2010-06-10,Natural,Flood,20.0
+2010-06-17,Natural,Storm,20.0
+2011-01-07,Natural,Storm,11.0
+2011-01-17,Natural,Storm,10.0
+2011-01-31,Natural,Storm,39.0
+2011-03-12,Technological,Road,14.0
+2011-04-14,Natural,Storm,46.0
+2011-04-18,Natural,Flood,9.0
+2011-04-22,Natural,Storm,354.0
+2011-05-15,Natural,Flood,5.0
+2011-05-20,Natural,Storm,176.0
+2011-05-22,Natural,Storm,11.0
+2011-08-27,Natural,Storm,46.0
+2011-09-04,Natural,Storm,15.0
+2011-09-04,Natural,Wildfire,4.0
+2011-10-29,Natural,Storm,29.0

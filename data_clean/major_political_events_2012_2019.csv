@@ -1,0 +1,57 @@
+date,major_political_event,which_events,event_centers,labels
+2012-01-03,1,caucus,2012-01-03,Iowa presidential caucuses
+2012-01-09,1,nh_primary,2012-01-10,New Hampshire presidential primary
+2012-01-10,1,nh_primary,2012-01-10,New Hampshire presidential primary
+2012-01-11,1,nh_primary,2012-01-10,New Hampshire presidential primary
+2012-03-05,1,super_tuesday,2012-03-06,Super Tuesday
+2012-03-06,1,super_tuesday,2012-03-06,Super Tuesday
+2012-03-07,1,super_tuesday,2012-03-06,Super Tuesday
+2012-11-04,1,general_election,2012-11-06,General election day (nationwide)
+2012-11-05,1,general_election,2012-11-06,General election day (nationwide)
+2012-11-06,1,general_election,2012-11-06,General election day (nationwide)
+2012-11-07,1,general_election,2012-11-06,General election day (nationwide)
+2012-11-08,1,general_election,2012-11-06,General election day (nationwide)
+2013-01-20,1,inauguration,2013-01-20,Presidential inauguration
+2013-11-03,1,general_election,2013-11-05,General election day (major state/local elections)
+2013-11-04,1,general_election,2013-11-05,General election day (major state/local elections)
+2013-11-05,1,general_election,2013-11-05,General election day (major state/local elections)
+2013-11-06,1,general_election,2013-11-05,General election day (major state/local elections)
+2013-11-07,1,general_election,2013-11-05,General election day (major state/local elections)
+2014-11-02,1,general_election,2014-11-04,General election day (nationwide)
+2014-11-03,1,general_election,2014-11-04,General election day (nationwide)
+2014-11-04,1,general_election,2014-11-04,General election day (nationwide)
+2014-11-05,1,general_election,2014-11-04,General election day (nationwide)
+2014-11-06,1,general_election,2014-11-04,General election day (nationwide)
+2015-11-01,1,general_election,2015-11-03,General election day (major state/local elections)
+2015-11-02,1,general_election,2015-11-03,General election day (major state/local elections)
+2015-11-03,1,general_election,2015-11-03,General election day (major state/local elections)
+2015-11-04,1,general_election,2015-11-03,General election day (major state/local elections)
+2015-11-05,1,general_election,2015-11-03,General election day (major state/local elections)
+2016-02-01,1,caucus,2016-02-01,Iowa presidential caucuses
+2016-02-08,1,nh_primary,2016-02-09,New Hampshire presidential primary
+2016-02-09,1,nh_primary,2016-02-09,New Hampshire presidential primary
+2016-02-10,1,nh_primary,2016-02-09,New Hampshire presidential primary
+2016-02-29,1,super_tuesday,2016-03-01,Super Tuesday
+2016-03-01,1,super_tuesday,2016-03-01,Super Tuesday
+2016-03-02,1,super_tuesday,2016-03-01,Super Tuesday
+2016-11-06,1,general_election,2016-11-08,General election day (nationwide)
+2016-11-07,1,general_election,2016-11-08,General election day (nationwide)
+2016-11-08,1,general_election,2016-11-08,General election day (nationwide)
+2016-11-09,1,general_election,2016-11-08,General election day (nationwide)
+2016-11-10,1,general_election,2016-11-08,General election day (nationwide)
+2017-01-20,1,inauguration,2017-01-20,Presidential inauguration
+2017-11-05,1,general_election,2017-11-07,General election day (major state/local elections)
+2017-11-06,1,general_election,2017-11-07,General election day (major state/local elections)
+2017-11-07,1,general_election,2017-11-07,General election day (major state/local elections)
+2017-11-08,1,general_election,2017-11-07,General election day (major state/local elections)
+2017-11-09,1,general_election,2017-11-07,General election day (major state/local elections)
+2018-11-04,1,general_election,2018-11-06,General election day (nationwide)
+2018-11-05,1,general_election,2018-11-06,General election day (nationwide)
+2018-11-06,1,general_election,2018-11-06,General election day (nationwide)
+2018-11-07,1,general_election,2018-11-06,General election day (nationwide)
+2018-11-08,1,general_election,2018-11-06,General election day (nationwide)
+2019-11-03,1,general_election,2019-11-05,General election day (KY/MS etc.)
+2019-11-04,1,general_election,2019-11-05,General election day (KY/MS etc.)
+2019-11-05,1,general_election,2019-11-05,General election day (KY/MS etc.)
+2019-11-06,1,general_election,2019-11-05,General election day (KY/MS etc.)
+2019-11-07,1,general_election,2019-11-05,General election day (KY/MS etc.)
