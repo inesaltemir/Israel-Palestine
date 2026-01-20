@@ -1,0 +1,25 @@
+		(1)	(2)	(3)	(4)	(5)	(6)	(7)	(8)	(9)	(10)
+VARIABLES	LABELS	Occurrence	Occurrence	Occurrence	Occurrence	Occurrence	Victims	Victims	Victims	Victims	Victims
+											
+leaddaily_woi	News pressure (t+1)	0.072*	0.073**	0.117**	0.089**	0.073**	0.436***	0.470***	0.665*	0.458***	0.473***
+		(0.042)	(0.034)	(0.051)	(0.041)	(0.034)	(0.163)	(0.161)	(0.365)	(0.155)	(0.162)
+_Ius_presid_1		-0.082					-0.623				
+		(0.143)					(0.483)				
+_Ius_Xleadd_1		0.046					0.229				
+		(0.065)					(0.397)				
+_Iclinton_1			-0.232					-0.646			
+			(0.150)					(0.473)			
+_IcliXleadd_1			0.295***					0.379			
+			(0.103)					(0.345)			
+_Ibush_1				0.082					0.623		
+				(0.143)					(0.483)		
+_IbusXleadd_1				-0.046					-0.229		
+				(0.065)					(0.397)		
+_Iobama_1					-0.711***					-1.723***	
+					(0.105)					(0.586)	
+_IobaXleadd_1					-0.022					0.140	
+					(0.066)					(0.512)	
+											
+Observations		4,025	4,025	4,025	4,025	3,919	4,025	4,025	4,025	4,025	3,919
+Standard errors in parentheses											
+*** p<0.01, ** p<0.05, * p<0.1											

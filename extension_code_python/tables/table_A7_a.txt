@@ -1,0 +1,12 @@
+		(1)	(2)	(3)	(4)	(5)	(6)	(7)	(8)
+VARIABLES	LABELS	Occurrence	Occurrence	Occurrence	Occurrence	Occurrence	Occurrence	Occurrence	Occurrence
+									
+leaddaily_woi	News pressure (t+1)	0.081**	0.081**	0.078**	0.086**	0.095***	0.087**	0.075**	
+		(0.034)	(0.035)	(0.038)	(0.034)	(0.032)	(0.034)	(0.035)	
+leaddaily_woi_c_med	News pressure corrected using median total newstime by network (t+1)								0.075**
+									(0.035)
+									
+Observations		4,024	4,047	4,024	4,025	4,046	4,007	3,955	4,024
+R-squared				0.196					
+Standard errors in parentheses									
+*** p<0.01, ** p<0.05, * p<0.1									

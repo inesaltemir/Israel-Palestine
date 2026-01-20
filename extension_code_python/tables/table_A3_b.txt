@@ -1,0 +1,24 @@
+		(1)	(2)	(3)	(4)	(5)	(6)	(7)	(8)
+VARIABLES	LABELS	Onset of disaster	Onset of disaster	Onset of disaster	Onset of disaster	Onset of disaster	Onset of disaster	Onset of disaster	Onset of disaster
+									
+daily_wod	News pressure excluding disaster-related news	0.025							
+		(0.017)							
+F.daily_wod	News pressure excluding disaster-related news = F,		0.021						
+			(0.016)						
+daily_wod_nc	News pressure excluding disaster-related news uncorrected			-0.033**					
+				(0.015)					
+F.daily_wod_nc	News pressure excluding disaster-related news uncorrected = F,				-0.041**				
+					(0.017)				
+daily_wod_nk	News pressure excluding disaster-related news (excluding hurricane Katrina)					0.023			
+						(0.017)			
+F.daily_wod_nk	News pressure excluding disaster-related news (excluding hurricane Katrina) = F,						0.019		
+							(0.017)		
+daily_wod_nc_nk	News pressure excluding disaster-related news uncorrected (excluding hurricane K							-0.033**	
+								(0.015)	
+F.daily_wod_nc_nk	News pressure excluding disaster-related news uncorrected (excluding hurricane K = F,								-0.042**
+									(0.017)
+									
+Observations		3,998	3,997	3,998	3,997	3,998	3,997	3,998	3,997
+R-squared		0.011	0.011	0.011	0.012	0.011	0.011	0.011	0.012
+Robust standard errors in parentheses									
+*** p<0.01, ** p<0.05, * p<0.1									

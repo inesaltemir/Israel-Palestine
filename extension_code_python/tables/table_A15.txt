@@ -1,0 +1,14 @@
+		(1)	(2)	(3)	(4)	(5)	(6)
+		Occurrence	Occurrence	Occurrence	Num. victims	Num. victims	Num. victims
+VARIABLES	LABELS	IV 2nd stage	IV 2nd stage	IV 2nd stage	IV 2nd stage	IV 2nd stage	IV 2nd stage
+							
+leaddaily_woi	News pressure (t+1)	0.613**	0.619**		2.187**	2.438***	
+		(0.250)	(0.248)		(1.028)	(0.866)	
+leaddaily_woi_c_med	News pressure corrected using median total newstime by network (t+1)			0.611**			2.476***
+				(0.242)			(0.869)
+							
+Observations		4,069	3,977	4,046	4,069	3,977	4,046
+R-squared		0.120	0.127	0.128			
+F excl. instr.		24.97	24.20	25.77	24.97	24.20	25.77
+Robust standard errors in parentheses							
+*** p<0.01, ** p<0.05, * p<0.1							
